@@ -1,5 +1,5 @@
 # Site settings
-baseURL = ""
+baseURL = "https://agent2.netlify.com/"
 languageCode = "en-us"
 title = "Forty"
 theme = ""
