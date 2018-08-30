@@ -6,3 +6,4 @@ image: pic08.jpg
 ---
 
 add picture!
+This is blog1. haha
